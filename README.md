@@ -8,6 +8,9 @@ Welcome to my page!
 
 <h2> News</h2>
 <ul>
+ <b> [05/2025]</b> Our papers  <b> SocialDuolingo </b> </a> &  <b>InSerter </b></a> are accepted at ACL 2025 See you in Austria!             
+</ul>
+<ul>
  <b> [05/2024]</b> Our papers  <a href="https://arxiv.org/pdf/2305.05390"> <b> COKE </b> </a> & <a href="https://arxiv.org/pdf/2402.15052"> <b>ToMBench </b></a> are accepted at ACL 2024. See you in Thailand 🇹🇭!             
 </ul>
 
